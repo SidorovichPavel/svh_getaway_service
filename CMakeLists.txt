@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.12)
-project(service_template CXX)
+project(svh_gateway_service CXX)
 
 
 # Adding userver dependency
